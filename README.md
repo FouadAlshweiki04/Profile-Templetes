@@ -1,4 +1,3 @@
-<!-- Header / Title -->
 # 🎨 Profile-Templates
 *A Curated List of Modern, Creative & Interactive GitHub Portfolio Templates*
 
@@ -90,5 +89,3 @@ Have ideas, feedback, or spotted a bug? Reach out!
 ## 🔗 Socials
 
 [![GitHub](https://img.shields.io/badge/@DMS-ranil-181717?style=for-the-badge&logo=github)](https://github.com/DMS-ranil)  
-*(Add more if you like, e.g. Twitter, LinkedIn, etc.)*
-
