@@ -24,7 +24,7 @@ Whether you’re fixing a typo, improving documentation, or adding a brand-new t
 
 ### 2. Add or Improve a Template
 
-* Place new templates as `.md` files inside the root folder (or a `templates` folder if created)
+* Place new templates as `.md` files inside the profiles folder
 * Follow the naming convention:
 
   ```
