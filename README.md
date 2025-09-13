@@ -52,12 +52,13 @@ Use them to make your GitHub profile pop, showcase your skills, projects, stats,
 
 ## 🛠 How to Use
 
-1. Pick one of the templates (e.g. `Profile1.md`)
-2. Copy the contents into your own `README.md` in your GitHub profile repo (`<username>/<username>`)
+1. Pick one of the templates Inside Of The Profiles Folder (e.g. `Profile1.md`)
+2. Clone The Profile To Your Computer
 3. Customize the sections:
    - Replace placeholder text: name, bio, skills, etc.
    - Link your projects, social media, etc.
    - Modify visuals (badges, images) as needed.
+5. Make A New Repository Named Your profile handle
 4. Commit & push — the new profile should render automatically on GitHub.
 
 ---
