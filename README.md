@@ -78,9 +78,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 Have ideas, feedback, or spotted a bug? Reach out!  
 
-- GitHub Issues  
-- Email: *your_email@example.com*  
-- Twitter / LinkedIn: *@your_handle*
+- GitHub Discussions : https://github.com/DMS-ranil/Profile-Templetes/discussions/   
+- LinkedIn: [*@dmsmenula*](https://www.linkedin.com/in/dmsmenula/)
 
 ---
 
@@ -90,6 +89,6 @@ Have ideas, feedback, or spotted a bug? Reach out!
 
 ## 🔗 Socials
 
-[![GitHub](https://img.shields.io/badge/GitHub-@DMS-ranil-181717?style=for-the-badge&logo=github)](https://github.com/DMS-ranil)  
+[![GitHub](https://img.shields.io/badge/@DMS-ranil-181717?style=for-the-badge&logo=github)](https://github.com/DMS-ranil)  
 *(Add more if you like, e.g. Twitter, LinkedIn, etc.)*
 
